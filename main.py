@@ -161,7 +161,6 @@ import shutil
 
 shutil.copy("C:\\Users\\Usuario\\Desktop\\testePython.txt","test.txt")
 
-asdasdasdasd
 
 
 
